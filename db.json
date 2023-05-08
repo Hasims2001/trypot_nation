@@ -1,6 +1,5 @@
 {
     "packages":[
-      
         {
             "id" :1,
             "title" : "Wonderful Kerala Family Holiday Package for 6 Nights",
@@ -989,26 +988,31 @@
        {
            "id" : 1,
            "username" : "admin",
-           "password" : "admin"
+           "password" : "admin",
+           "email" : "admin@admin.com"
        },
        {
         "id" : 2,
         "username" : "achal",
-        "password" : "achal@admin"
+        "password" : "achal@admin",
+        "email" : "achal@admin.com"
     },
     {
         "id" : 3,
         "username" : "piyush",
-        "password" : "piyush@admin"
+        "password" : "piyush@admin",
+        "email" : "piyush@admin.com"
     }, {
         "id" : 4,
         "username" : "abhay",
-        "password" : "abhay@admin"
+        "password" : "abhay@admin",
+        "email" : "abhay@admin.com"
     },
     {
         "id" : 5,
         "username" : "hasim",
-        "password" : "hasim@admin"
+        "password" : "hasim@admin",
+        "email" : "hasim@admin.com"
     }
 
    ],
