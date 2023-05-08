@@ -941,25 +941,124 @@
         },
         {
             "id" : 2,
-            "name" : "Shivani Patel",
-            "email" : "shivani.patel@tourmy.com",
-            "password" : "shivani@tour",
+            "name" : "Abhay",
+            "email" : "abhay@member.com",
+            "password" : "abhay@member",
             "phone" : "987654321",
-            "address" : "Wardha",
-            "state" : "Maharashtra",
+            "address" : "kerala",
+            "state" : "Kerala",
+            "country" : "India"
+
+        },
+        {
+            "id" : 3,
+            "name" : "Piyush",
+            "email" : "piyush@member.com",
+            "password" : "piyush@member",
+            "phone" : "987654321",
+            "address" : "Chattirgarh",
+            "state" : "Chattirgarh",
+            "country" : "India"
+
+        },
+        {
+            "id" : 4,
+            "name" : "Achal",
+            "email" : "achal@member.com",
+            "password" : "achal@member",
+            "phone" : "987654321",
+            "address" : "Chattirgarh",
+            "state" : "Chattirgarh",
+            "country" : "India"
+
+        },
+        {
+            "id" : 5,
+            "name" : "Hasim",
+            "email" : "hasim@member.com",
+            "password" : "hasim@member",
+            "phone" : "987654321",
+            "address" : "Ahmedabad",
+            "state" : "Gujarat",
             "country" : "India"
 
         }
+        
     ],
    "login" : [
        {
            "id" : 1,
            "username" : "admin",
            "password" : "admin"
-       }
+       },
+       {
+        "id" : 2,
+        "username" : "achal",
+        "password" : "achal@admin"
+    },
+    {
+        "id" : 3,
+        "username" : "piyush",
+        "password" : "piyush@admin"
+    }, {
+        "id" : 4,
+        "username" : "abhay",
+        "password" : "abhay@admin"
+    },
+    {
+        "id" : 5,
+        "username" : "hasim",
+        "password" : "hasim@admin"
+    }
+
    ],
    "sales" : [
-    
+    {
+        "id" : 1,
+        "package_name" : "Wildlife & Beach of Gujarat: Gir with Diu Tour",
+        "bill" : 39000,
+        "name" : "Achal",
+        "email" : "achal@admin.com",
+        "timestamp" : "2023-05-05"
+
+    },
+    {
+        "id" : 2,
+        "package_name" : "Kerala Delight Tour Package",
+        "bill" : 29000,
+        "name" : "Shivani Patel",
+        "email" : "shivani.patel@tourmy.com",
+        "timestamp" : "2022-04-08"
+
+    },
+    {
+        "id" : 3,
+        "package_name" : "Heritage Walk Tour with BhoramDev",
+        "bill" : 73999,
+        "name" : "Piyush",
+        "email" : "piyush@admin.com",
+        "timestamp" : "2022-05-01"
+
+    },
+    {
+        "id" : 4,
+        "package_name" : "Panch Koshi Yatra",
+        "bill" : 80000,
+        "name" : "Abhay",
+        "email" : "abhay@member.com",
+        "timestamp" : "2022-05-02"
+
+    },
+    {
+        "id" : 5,
+        "package_name" : "Ajanta and Ellora Tour",
+        "bill" : 99995,
+        "name" : "Hasim",
+        "email" : "hasim@member.com",
+        "timestamp" : "2022-05-03"
+
+    }
+   
    ],
    "activities":[
     {
