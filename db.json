@@ -1023,6 +1023,7 @@
         "bill" : 39000,
         "name" : "Achal",
         "email" : "achal@admin.com",
+        "tourdate": "2023-07-10",
         "timestamp" : "Mon May 08 2023 02:09:40 GMT+0530 (India Standard Time)"
 
     },
@@ -1032,6 +1033,7 @@
         "bill" : 29000,
         "name" : "Shivani Patel",
         "email" : "shivani.patel@tourmy.com",
+        "tourdate": "2023-07-15",
         "timestamp" : "Tue May 09 2023 02:09:40 GMT+0530 (India Standard Time)"
 
     },
@@ -1041,6 +1043,7 @@
         "bill" : 73999,
         "name" : "Piyush",
         "email" : "piyush@admin.com",
+        "tourdate": "2023-07-19",
         "timestamp" : "Sun May 07 2023 02:09:40 GMT+0530 (India Standard Time)"
 
     },
@@ -1050,6 +1053,7 @@
         "bill" : 80000,
         "name" : "Abhay",
         "email" : "abhay@member.com",
+        "tourdate": "2023-07-27",
         "timestamp" : "Tue May 09 2023 02:09:40 GMT+0530 (India Standard Time)"
 
     },
@@ -1059,6 +1063,7 @@
         "bill" : 99995,
         "name" : "Hasim",
         "email" : "hasim@member.com",
+        "tourdate": "2023-07-21",
         "timestamp" : "Tue May 09 2023 02:09:40 GMT+0530 (India Standard Time)"
 
     }
